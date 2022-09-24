@@ -6,6 +6,16 @@ d = {
    'Франция': 'Париж',
    'Чехия': 'Прага',
 }
-print(sorted(d))
+k = d.keys()
+print(type(k), k)
+# print(next(k))
+# i = iter(k)
+# print(next(i))
+# print(next(i))
+# print(next(i))
+# print(next(i))
+# print(next(i))
+
+# print(sorted(d))
 # print(sorted(d.values()))
 # print(sorted(d.items()))
