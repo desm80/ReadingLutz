@@ -21,7 +21,7 @@ print(res)
 # с использованием вложенных циклов for
 # a = [(x, y) for x in range(2) for y in range(3)]
 # print(a)
-#
+
 # matrix = [[a for a in range(3)] for b in range(4)]
 # print(matrix)
 # a = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
