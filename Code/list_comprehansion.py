@@ -3,6 +3,12 @@
 lst = [x for x in 'python']
 print(lst)
 
+res = []
+for letter in 'python':
+    res.append(letter)
+print(res)
+
+
 # с использованием if
 # lst = [х + 10 for х in range(7) if х % 2 == 0]
 # print(lst)
